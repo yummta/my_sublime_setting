@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Base16 Color Schemes",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Coffee Color Scheme",
+		"Color Highlighter",
+		"Color Scheme - Eggplant Parm",
+		"DiffTabs",
+		"Emmet",
+		"ES6-Toolkit",
+		"Git",
+		"GitGutter",
+		"Insert Callback",
+		"Jade",
+		"Jade Build",
+		"JavaScript & Coffeescript Build Systems",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JSHint",
+		"Mocha Coffee Snippets",
+		"Package Control",
+		"Pug",
+		"ReIndent",
+		"Sass",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}

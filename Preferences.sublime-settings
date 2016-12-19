@@ -1,0 +1,31 @@
+{
+	"Seti_bold_slctdfile_labels": true,
+	"Seti_no_scroll_icons": true,
+	"Seti_purple_scrollbar": true,
+	"Seti_sb_small_padding": true,
+	"Seti_tabs_small": true,
+	"Seti_yellow_statusbar": true,
+	"Seti_yellow_tabclose": true,
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/Color Highlighter/themes/EggplantParm (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+	],
+	"font_size": 8,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"mouse_wheel_tabswitch": true,
+	"overlay_scroll_bars": "enabled",
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Seti_orig.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
